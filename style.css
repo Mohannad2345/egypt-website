@@ -1,0 +1,38 @@
+.videocontainer{
+    position: absolute;
+    align-items: center;
+    justify-content: center;
+    vertical-align: middle;
+    top:0;
+    left:0;
+    width: 100%;
+}
+#myvideo{
+    right: 0;
+    bottom: 0;
+    position: fixed;
+    min-width: 100%;
+    min-height: 100%;
+    
+}
+input[type=radieo] {
+    display: inline;
+    width: auto;
+
+}
+option {
+    color: indigo;
+}
+
+input[type=submit]:hover,
+input[type=reset]:focus{
+    outline: none;
+background: rgb(192, 3, 18)
+}
+input[type=reset]
+input[type=submit]
+background: rgb (27, 44, 141)
+colour: white;
+margin-top: 1em
+border-radious:    ;
+
