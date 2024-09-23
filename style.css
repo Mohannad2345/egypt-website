@@ -29,10 +29,9 @@ input[type=reset]:focus{
     outline: none;
 background: rgb(192, 3, 18)
 }
-input[type=reset]
-input[type=submit]
-background: rgb (27, 44, 141)
-colour: white;
-margin-top: 1em
-border-radious:    ;
-
+input[type=reset], input[type=submit]{
+background: rgb (27, 44, 141);
+color:white;
+margin-top: 1em;
+border-radius: 20px;
+}
